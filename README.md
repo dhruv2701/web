@@ -1,3 +1,0 @@
-# web
-vanillajs
-  modal
