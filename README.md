@@ -1,2 +1,3 @@
 # web
 vanillajs
+  modal
